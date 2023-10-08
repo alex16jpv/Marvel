@@ -1,0 +1,6 @@
+[submodule "Marvel-Client"]
+	path = Marvel-Client
+	url = git@github.com:alex16jpv/Marvel-Client.git
+[submodule "Marvel-API"]
+	path = Marvel-API
+	url = git@github.com:alex16jpv/Marvel-API.git
